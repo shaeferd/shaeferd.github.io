@@ -1,5 +1,5 @@
 ## Shaefer's Website
-<img src="photos/headshot.png" alt="headshot" class="inline" width = "300"/>
+<img src="photos/headshot.png" alt="headshot" class="inline" width = "250"/>
 
 ### About Me
 
