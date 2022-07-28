@@ -7,6 +7,7 @@ I am a graduate from the University of Michigan, where I studied Data Science in
 
 
 ### Work Experience
+
 <div class="row">
   <div class="column">
     <img src="photos/kpmg.jpeg" alt="kpmg-logo" class="inline" width = "100"/>
